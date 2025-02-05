@@ -2,11 +2,15 @@
 
 Welcome to the **HR Dashboard Analysis** project. This repository contains an interactive dashboard built using a popular HR dataset. The dashboard is designed to provide insightful analyses into employee metrics and attrition trends, featuring two main pages: **Home** and **Analytics**. The entire project is deployed as a Streamlit app, making it easy to share and explore.
 
+![App](C:\Users\Dell\Desktop\AppTrainers\streamlit app.png)
+
 ## Project Overview
 
 In this project, you will find:
 - **Home Page:** A landing page with two intuitive icons for navigating between pages.
+![Home Page](C:\Users\Dell\Desktop\AppTrainers\home page.png)
 - **Analytics Page:** A detailed analysis that includes:
+![Analytics Page](C:\Users\Dell\Desktop\AppTrainers\analytics page.png)
   - Total number of employees
   - Total attrition count
   - Attrition rate
