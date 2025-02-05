@@ -40,5 +40,5 @@ This dashboard empowers HR professionals and data analysts to quickly visualize 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/hr-dashboard-analysis.git
+   git clone https://github.com/username/AppTrainers.git
    cd hr-dashboard-analysis
